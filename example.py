@@ -1,1 +1,5 @@
-print("Hello world!")
+#!/usr/bin/env python3
+print("Goodbye world 😈")
+# TODO: Update the message
+
+print("*Explosion Sounds*")
